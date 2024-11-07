@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e86230f35222ebf4c8c7ed7075f6233a, type: 3}
+  m_Name: xorBlock
+  m_EditorClassIdentifier: 
+  obj: {fileID: 2308967820143958242, guid: 3e476378ffe78c24482e63ea22fd85a9, type: 3}
+  sprite: {fileID: 21300000, guid: 2c8923ce39ae55a40a8de997df2bd29c, type: 3}
+  itemName: XOR gate

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82047cc5082038b4192619c50078b8ab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - laserSeg: {instanceID: 0}
+  - gate: {instanceID: 0}
+  - unGate: {instanceID: 0}
+  - endLight: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

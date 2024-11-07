@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e86230f35222ebf4c8c7ed7075f6233a, type: 3}
+  m_Name: notBlock
+  m_EditorClassIdentifier: 
+  obj: {fileID: 4454253184562235630, guid: 349a3ee945ad2aa4990c64c97c9ba24d, type: 3}
+  sprite: {fileID: 21300000, guid: 87ab8960616a5844c8c400b93fa8d4d1, type: 3}
+  itemName: NOT gate
